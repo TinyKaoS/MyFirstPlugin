@@ -1,0 +1,23 @@
+main: com.kaosgaming.customenchants.ServerEssentials
+version: 3.7
+name: ServerEssentials
+
+commands:
+  Warps:
+    description: Opens a GUI that lets you select a Warp to go to!
+  SM:
+    description: Short for Social Media which give you Social Media links!
+  Kits:
+    description: Opens a GUI that lets you select a Kit to use!
+  KitPeasant:
+    description: Give you [Peasant] Kit
+  KitKnight:
+    description: Give you [Knight] Kit
+  KitbBaron:
+    description: Give you [Baron] Kit
+  KitDuke:
+    description: Give you [Duke] Kit
+  KitPrince:
+    description: Give you [Prince] Kit
+  KitKing:
+    description: Give you [King] Kit
